@@ -17,7 +17,7 @@ const { argv } = yargs
   .option('h', {
     alias: 'host',
     describe: 'Upstream server providing forwarding',
-    default: 'https://lt.currrent.tech',
+    default: 'https://wh.craigandersen.io',
   })
   .option('s', {
     alias: 'subdomain',
